@@ -1,0 +1,23 @@
+[
+  {
+    "date": "1",
+    "product": "Bolt EUV Batteries",
+    "type": "Inbound",
+    "quantity": "+500",
+    "status": "Warehouse A"
+  },
+  {
+    "date": "2",
+    "product": "Solar Panels 450W",
+    "type": "Outbound",
+    "quantity": "-120",
+    "status": "Completed"
+  },
+  {
+    "date": "3",
+    "product": "Solar Panels 45W",
+    "type": "Distribution",
+    "quantity": "-120",
+    "status": "Shipped"
+  }
+]
